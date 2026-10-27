@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Rice",
+    "type": "kharif",
+    "season": "June - November",
+    "durationDays": 150,
+    "soilPreference": ["alluvial", "clay"],
+    "waterRequirement": "high",
+    "commonPests": ["Stem Borer", "Brown Plant Hopper", "Leaf Folder"],
+    "majorStates": ["West Bengal", "Uttar Pradesh", "Punjab", "Andhra Pradesh"]
+  },
+  {
+    "name": "Wheat",
+    "type": "rabi",
+    "season": "November - April",
+    "durationDays": 140,
+    "soilPreference": ["alluvial", "clay"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Aphids", "Termites", "Rust"],
+    "majorStates": ["Uttar Pradesh", "Punjab", "Haryana", "Madhya Pradesh"]
+  },
+  {
+    "name": "Cotton",
+    "type": "kharif",
+    "season": "April - October",
+    "durationDays": 180,
+    "soilPreference": ["black", "alluvial"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Bollworm", "Whitefly", "Jassid"],
+    "majorStates": ["Gujarat", "Maharashtra", "Telangana", "Rajasthan"]
+  },
+  {
+    "name": "Sugarcane",
+    "type": "kharif",
+    "season": "January - December",
+    "durationDays": 365,
+    "soilPreference": ["alluvial", "black"],
+    "waterRequirement": "high",
+    "commonPests": ["Top Borer", "Pyrilla", "Red Rot"],
+    "majorStates": ["Uttar Pradesh", "Maharashtra", "Karnataka"]
+  },
+  {
+    "name": "Maize",
+    "type": "kharif",
+    "season": "June - October",
+    "durationDays": 110,
+    "soilPreference": ["alluvial", "red", "sandy"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Fall Armyworm", "Stem Borer", "Shoot Fly"],
+    "majorStates": ["Karnataka", "Madhya Pradesh", "Bihar", "Rajasthan"]
+  },
+  {
+    "name": "Mustard",
+    "type": "rabi",
+    "season": "October - March",
+    "durationDays": 130,
+    "soilPreference": ["alluvial", "sandy"],
+    "waterRequirement": "low",
+    "commonPests": ["Aphids", "Sawfly", "White Rust"],
+    "majorStates": ["Rajasthan", "Uttar Pradesh", "Haryana", "Madhya Pradesh"]
+  },
+  {
+    "name": "Groundnut",
+    "type": "kharif",
+    "season": "June - November",
+    "durationDays": 130,
+    "soilPreference": ["sandy", "red"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Leaf Miner", "Tikka Disease", "White Grub"],
+    "majorStates": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Rajasthan"]
+  },
+  {
+    "name": "Soybean",
+    "type": "kharif",
+    "season": "June - October",
+    "durationDays": 100,
+    "soilPreference": ["black", "alluvial"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Stem Fly", "Girdle Beetle", "Semilooper"],
+    "majorStates": ["Madhya Pradesh", "Maharashtra", "Rajasthan"]
+  },
+  {
+    "name": "Chickpea (Chana)",
+    "type": "rabi",
+    "season": "October - March",
+    "durationDays": 120,
+    "soilPreference": ["black", "alluvial"],
+    "waterRequirement": "low",
+    "commonPests": ["Pod Borer", "Wilt", "Root Rot"],
+    "majorStates": ["Madhya Pradesh", "Rajasthan", "Maharashtra", "Uttar Pradesh"]
+  },
+  {
+    "name": "Potato",
+    "type": "rabi",
+    "season": "October - March",
+    "durationDays": 100,
+    "soilPreference": ["alluvial", "sandy"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Late Blight", "Aphids", "Cutworm"],
+    "majorStates": ["Uttar Pradesh", "West Bengal", "Bihar", "Gujarat"]
+  },
+  {
+    "name": "Tomato",
+    "type": "zaid",
+    "season": "Year-round",
+    "durationDays": 90,
+    "soilPreference": ["alluvial", "red", "sandy"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Fruit Borer", "Whitefly", "Leaf Curl Virus"],
+    "majorStates": ["Andhra Pradesh", "Karnataka", "Madhya Pradesh", "Odisha"]
+  },
+  {
+    "name": "Onion",
+    "type": "rabi",
+    "season": "November - May",
+    "durationDays": 150,
+    "soilPreference": ["alluvial", "red"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Thrips", "Purple Blotch", "Stemphylium Blight"],
+    "majorStates": ["Maharashtra", "Karnataka", "Madhya Pradesh", "Gujarat"]
+  },
+  {
+    "name": "Jute",
+    "type": "kharif",
+    "season": "March - August",
+    "durationDays": 150,
+    "soilPreference": ["alluvial", "clay"],
+    "waterRequirement": "high",
+    "commonPests": ["Semilooper", "Yellow Mite", "Stem Rot"],
+    "majorStates": ["West Bengal", "Bihar", "Assam"]
+  },
+  {
+    "name": "Turmeric",
+    "type": "kharif",
+    "season": "June - February",
+    "durationDays": 270,
+    "soilPreference": ["alluvial", "red", "clay"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Shoot Borer", "Rhizome Rot", "Leaf Blotch"],
+    "majorStates": ["Telangana", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"]
+  },
+  {
+    "name": "Watermelon",
+    "type": "zaid",
+    "season": "February - June",
+    "durationDays": 90,
+    "soilPreference": ["sandy", "alluvial"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Fruit Fly", "Aphids", "Downy Mildew"],
+    "majorStates": ["Uttar Pradesh", "Rajasthan", "Karnataka", "Andhra Pradesh"]
+  },
+  {
+    "name": "Cucumber",
+    "type": "zaid",
+    "season": "February - June",
+    "durationDays": 70,
+    "soilPreference": ["sandy", "alluvial"],
+    "waterRequirement": "moderate",
+    "commonPests": ["Downy Mildew", "Red Pumpkin Beetle", "Fruit Fly"],
+    "majorStates": ["Haryana", "Madhya Pradesh", "Karnataka", "Uttar Pradesh"]
+  }
+]
