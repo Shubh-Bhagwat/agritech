@@ -16,8 +16,7 @@ Initialize Git in the project root if you haven't already:
 git init
 git add .
 git commit -m "Configure Agritech for Vercel deployment"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+git remote add origin https://github.com/Shubh-Bhagwat/agritech.git
 git push -u origin main
 ```
 
