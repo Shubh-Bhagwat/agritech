@@ -36,7 +36,7 @@ Under the **Environment Variables** section in the Vercel import page, add:
 
 | Key | Example Value | Description |
 |---|---|---|
-| `MONGO_URI` | `mongodb+srv://<user>:<password>@cluster0.mongodb.net/agriculture_db?retryWrites=true&w=majority` | Your live MongoDB Atlas connection string |
+| `MONGO_URI` | `mongodb+srv://bhagwatshubh6_db_user:aB0EWK9pm4j1ZVwQ@<your-cluster-name>.mongodb.net/agriculture_db?retryWrites=true&w=majority` | Your live MongoDB Atlas connection string |
 | `JWT_SECRET` | `your_super_strong_random_secret_key_2024` | Secret key used for signing JWT tokens |
 | `NODE_ENV` | `production` | Production environment flag |
 
